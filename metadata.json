@@ -1,0 +1,5 @@
+{
+  "name": "Local Business Permit Finder",
+  "description": "A high-fidelity placeholder UI for a Local Business Permit Finder. This tool simulates the process of searching for required local business permits based on Business Type and City/State, providing instructional guidance for users.",
+  "requestFramePermissions": []
+}
