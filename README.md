@@ -9,8 +9,8 @@
 
 <br />
 
-<a href="https://PermitFinder.doodax.com" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-PermitFinder.doodax.com-ff00ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+<a href="https://doodax.com/tools/business-permit-finder/index.html" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-doodax.com-ff00ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
 </a>
 
 <br />
